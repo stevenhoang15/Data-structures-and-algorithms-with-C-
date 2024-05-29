@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686321988 source:e:\ctdl\sapxep\main.cpp
+	<iostream>
+	<ctime>
+	<fstream>
+

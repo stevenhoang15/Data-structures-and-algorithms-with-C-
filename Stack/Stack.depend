@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684242638 source:e:\ctdl\stack\main.cpp
+	<iostream>
+	"Stack.h"
+
+1684242562 e:\ctdl\stack\stack.h
+

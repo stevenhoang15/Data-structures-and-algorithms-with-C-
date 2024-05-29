@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1681426324 source:e:\ctdl\day_of_year\main.cpp
+	<iostream>
+	"day_of_yeas.h"
+
+1681426280 source:e:\ctdl\day_of_year\day_of_years.cpp
+	"day_of_yeas.h"
+
+1681426255 e:\ctdl\day_of_year\day_of_yeas.h
+	<iostream>
+

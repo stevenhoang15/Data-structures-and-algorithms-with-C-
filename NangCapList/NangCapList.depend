@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684480588 source:e:\ctdl\nangcaplist\main.cpp
+	<iostream>
+	"List.h"
+	<ctime>
+
+1684486143 e:\ctdl\nangcaplist\list.h
+	"Node.h"
+
+1684486143 e:\ctdl\nangcaplist\node.h
+

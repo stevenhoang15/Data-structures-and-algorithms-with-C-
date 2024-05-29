@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683513256 source:e:\ctdl\danh_sachlienket\main.cpp
+	<iostream>
+	"DanhSachLienKet.h"
+
+1683513595 e:\ctdl\danh_sachlienket\danhsachlienket.h
+

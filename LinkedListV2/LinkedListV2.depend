@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1687361782 source:e:\ctdl\linkedlistv2\main.cpp
+	<iostream>
+	"LinkedListV2.h"
+	"SinhVien.h"
+	<fstream>
+
+1687361815 e:\ctdl\linkedlistv2\linkedlistv2.h
+	"NodeV2.h"
+	<string.h>
+	<fstream>
+
+1684718442 e:\ctdl\linkedlistv2\nodev2.h
+
+1684720898 e:\ctdl\linkedlistv2\sinhvien.h
+

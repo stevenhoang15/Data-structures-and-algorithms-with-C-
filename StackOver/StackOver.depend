@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1685799295 source:e:\ctdl\stackover\main.cpp
+	<iostream>
+	"Stack.h"
+	"Queue.h"
+
+1685703954 e:\ctdl\stackover\stack.h
+	"Node.h"
+
+1685502036 e:\ctdl\stackover\node.h
+
+1685799449 e:\ctdl\stackover\queue.h
+	<iostream>
+	<string.h>
+	"Node.h"
+

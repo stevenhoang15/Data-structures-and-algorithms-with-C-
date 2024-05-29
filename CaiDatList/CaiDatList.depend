@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1682260220 source:e:\ctdl\caidatlist\main.cpp
+	<iostream>
+	"List.h"
+
+1682260220 e:\ctdl\caidatlist\list.h
+	<iostream>
+	<fstream>
+
